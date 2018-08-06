@@ -23,3 +23,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.is-blokk, .is-blokk * {
+  font-family: 'BLOKK' !important;
+}
