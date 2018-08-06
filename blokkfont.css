@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: 'BLOKK';
-    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/BLOKKNeue-Regular.eot');
-    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/BLOKKNeue-Regular.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/BLOKKNeue-Regular.woff') format('woff'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/BLOKKNeue-Regular.otf') format('opentype'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/BLOKKNeue-Regular.ttf') format('truetype'),
+    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.eot');
+    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.woff') format('woff'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.otf') format('opentype'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.ttf') format('truetype'),
          /* url('https://blokkfont-losgordos.netdna-ssl.com/v2/BLOKKNeue-Regular.svg#BLOKKRegular') format('svg'); */
     font-weight: normal;
     font-style: normal;
