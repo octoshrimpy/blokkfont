@@ -12,19 +12,19 @@ This Repo exists because the certificate at the official site has expired, and h
 
 you can use either `blokkfont.css` for the rawgit links or use `blokkfont_original.css` for including the font straight from [BlokkFont](http://www.blokkfont.com/), the base URL is the same. Be aware that `blokkfont_original.css` does not serve as HTTPS.
 ```
-<link href="https://cdn.rawgit.com/octoshrimpy/blokkfont/3b331e3a/blokkfont.css" rel="stylesheet" type="text/css">
+<link href="https://gitcdn.xyz/repo/octoshrimpy/blokkfont/master/blokkfont.css" rel="stylesheet" type="text/css">
 ```
 ```
-<link href="https://cdn.rawgit.com/octoshrimpy/blokkfont/3b331e3a/blokkfont_original.css" rel="stylesheet" type="text/css">
+<link href="https://gitcdn.xyz/repo/octoshrimpy/blokkfont/master/blokkfont_original.css" rel="stylesheet" type="text/css">
 ```
 
 
 
 ```
-@import url("https://cdn.rawgit.com/octoshrimpy/blokkfont/3b331e3a/blokkfont.css");
+@import url("https://gitcdn.xyz/repo/octoshrimpy/blokkfont/master/blokkfont.css");
 ```
 ```
-@import url("https://cdn.rawgit.com/octoshrimpy/blokkfont/3b331e3a/blokkfont_original.css");
+@import url("https://gitcdn.xyz/repo/octoshrimpy/blokkfont/master/blokkfont_original.css");
 ```
 
 
