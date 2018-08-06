@@ -12,11 +12,11 @@ This Repo exists because the certificate at the official site has expired, and h
 
 you can use either `blokkfont.css` for the rawgit links or use `blokkfont_original.css` for including the font straight from [BlokkFont](http://www.blokkfont.com/), the base URL is the same. Be aware that `blokkfont_original.css` does not serve as HTTPS.
 ```
-<link href="https://cdn.rawgit.com/octoshrimpy/blokkfont/9e89c548/blokkfont.css" rel="stylesheet" type="text/css">
+<link href="https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/blokkfont.css" rel="stylesheet" type="text/css">
 ```
 
 ```
-@import url("https://blokkfont-losgordos.netdna-ssl.com/v2/blokkfont.css");
+@import url("https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/blokkfont.css");
 ```
 
 
