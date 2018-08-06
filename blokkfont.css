@@ -27,3 +27,7 @@ body {
 .is-blokk, .is-blokk * {
   font-family: 'BLOKK' !important;
 }
+
+.is-blokk .reset-blokk {
+  font-family: initial !important;
+}
