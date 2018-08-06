@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'BLOKK';
-    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.eot');
-    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.woff') format('woff'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.otf') format('opentype'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.svg#BLOKKRegular') format('svg');
+    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.eot');
+    src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.woff') format('woff'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.otf') format('opentype'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.svg#BLOKKRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
         font-family: 'BLOKK';
-        src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e431e827/font/BLOKKNeue-Regular.svg') format('svg');
+        src: url('https://cdn.rawgit.com/octoshrimpy/blokkfont/e0dd7ffa/font/BLOKKNeue-Regular.svg') format('svg');
     }
 }
 
