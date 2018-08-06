@@ -34,7 +34,6 @@ font-family: "BLOKK";
 ```
 
 You can also use the `.is-blokk` class modifier to selectively turn specific elements and their children into BLOKK text.
-Alternatively, you can use `.reset-blokk` class modifier on a child of `.is-blokk` to turn it into regular text again.
 
 
 ## Download it from [BlokkFont](http://www.blokkfont.com/)
