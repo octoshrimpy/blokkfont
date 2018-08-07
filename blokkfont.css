@@ -24,6 +24,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.is-blokk, .is-blokk *:not([class*='fa-']):not([class*='mdi']):not([class*='oi']):not([class*='ion-']):not(.reset-block) {
+.is-blokk, .is-blokk *:not([class*='fa-']):not([class*='mdi']):not([class*='oi']):not([class*='ion-']):not(.reset-blokk) {
   font-family: 'BLOKK' !important;
 }
