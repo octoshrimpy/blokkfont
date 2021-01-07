@@ -36,9 +36,8 @@ font-family: "BLOKK";
 You can also use the `.is-blokk` class modifier to selectively turn specific elements and their children into BLOKK text.
 
 #### Bookmarklet!
-Need to easily inject it into whatever site you're on? Use this bookmarklet! Just drag the link below onto your bookmark bar. Then click the bookmarklet to inject it into the site with css classes of `.blokked` and `.redacted`. Then add the class to whatever you need to redact. It's great for screenshots!
-
-Github doesn't allow bookmarklet urls, so head to your favorite bookmarklet creater, like [https://mrcoles.com/bookmarklet/](https://mrcoles.com/bookmarklet/) and enter the following code:
+Need to easily inject it into whatever site you're on? Use a bookmarklet! ~~Just drag the link below onto your bookmark bar.~~ 
+Github doesn't allow bookmarklet urls, so head to your favorite bookmarklet creator, like [https://mrcoles.com/bookmarklet/](https://mrcoles.com/bookmarklet/) and enter the following code:
 
 ```
 let link = document.createElement('link');
@@ -51,6 +50,9 @@ let style = document.createElement('style');
 document.head.appendChild(style);
 style.sheet.insertRule('.blokked, .redacted { font-family: BLOKK; color: grey; }');
 ```
+
+Then click the bookmarklet to inject it into the site with css classes of `.blokked` and `.redacted`. Then add the class to whatever you need to redact. It's great for screenshots!
+
 
 ## Download it from [BlokkFont](http://www.blokkfont.com/)
 
